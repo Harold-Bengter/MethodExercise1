@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\bin\Debug\net6.0\MethodsExcercise.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\bin\Debug\net6.0\MethodsExcercise.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\bin\Debug\net6.0\MethodsExcercise.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\bin\Debug\net6.0\MethodsExcercise.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\bin\Debug\net6.0\MethodsExcercise.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\refint\MethodsExcercise.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\MethodsExcercise.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\MethodsExcercise\MethodsExcercise\obj\Debug\net6.0\ref\MethodsExcercise.dll
